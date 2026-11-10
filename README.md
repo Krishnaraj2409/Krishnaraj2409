@@ -1,3 +1,28 @@
+<p align="center">
+  <img
+    src="assets/github-banner.png"
+    width="100%"
+    alt="WeFutureTechies - Krishnaraj"
+  />
+</p>
+
+<h1 align="center">
+  Hi, I'm Krishnaraj 👋
+</h1>
+
+<h3 align="center">
+  Freelance Web Developer | WeFutureTechies
+</h3>
+
+<p align="center">
+  <a href="https://wefuturetechies.vercel.app/">
+    Visit My Portfolio
+  </a>
+  |
+  <a href="https://github.com/Krishnaraj2409">
+    GitHub Profile
+  </a>
+</p>
 # 👋 Hi, I'm Krishnaraj
 
 ### Freelance Web Developer | Founder of WeFutureTechies
