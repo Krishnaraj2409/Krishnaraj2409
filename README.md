@@ -58,13 +58,18 @@ I'm a web developer focused on creating clean, responsive and user-friendly digi
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## GitHub Activity
+## 📊 GitHub Activity
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Krishnaraj2409&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics for Krishnaraj2409" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaraj2409&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages for Krishnaraj2409" />
+  <a href="https://github.com/Krishnaraj2409">
+    <img src="https://github-readme-stats.vercel.app/api?username=Krishnaraj2409&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Krishnaraj2409&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak for Krishnaraj2409" />
+  <a href="https://github.com/Krishnaraj2409">
+    View my GitHub profile and contribution activity →
+  </a>
 </p>
 
 ## Let's Work Together
