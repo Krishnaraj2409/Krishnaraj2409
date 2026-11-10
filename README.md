@@ -59,17 +59,34 @@ I'm a web developer focused on creating clean, responsive and user-friendly digi
 </p>
 
 ## 📊 GitHub Activity
+## 📊 Developer Activity
 
 <p align="center">
+  <strong>BUILDING · LEARNING · CREATING</strong><br/>
+  <sub>My development journey on GitHub</sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/2563EB/Krishnaraj2409"
+    alt="GitHub contribution calendar"
+    width="100%"
+  />
+</p>
+
+### 💻 Explore My Development Work
+
+<p align="center">
+  <a href="https://github.com/Krishnaraj2409?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://github.com/Krishnaraj2409">
-    <img src="https://github-readme-stats.vercel.app/api?username=Krishnaraj2409&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+    <img src="https://img.shields.io/badge/View_GitHub_Profile-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Krishnaraj2409">
-    View my GitHub profile and contribution activity →
-  </a>
+  <em>Every project is another step forward.</em>
 </p>
 
 ## Let's Work Together
